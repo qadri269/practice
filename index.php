@@ -1,3 +1,3 @@
 <?php
-  include_once("calculator.html");
+  include_once("index.html");
 ?>
